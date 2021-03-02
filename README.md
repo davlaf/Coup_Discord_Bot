@@ -19,7 +19,7 @@ secret = ["https://i.kym-cdn.com/photos/images/newsfeed/001/193/375/5f7.jpeg", #
 ```
 
 ## How to play
-Coup is a fairly complicated game but you can find the rules [here](https://www.ultraboardgames.com/coup/game-rules.php)
+Coup is a fairly complicated game but you can find the rules [here](https://www.ultraboardgames.com/coup/game-rules.php).\
 You can play with up to six people.
 
 *P.S.:* the rules are very slightly different from the original version.
